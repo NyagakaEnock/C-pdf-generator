@@ -1,0 +1,13 @@
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\bin\Debug\Transcripts PDF Generator.exe.config
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\bin\Debug\Transcripts PDF Generator.exe
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\bin\Debug\Transcripts PDF Generator.pdb
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts PDF Generator.csprojResolveAssemblyReference.cache
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts_PDF_Generator.frmMain.resources
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts_PDF_Generator.Properties.Resources.resources
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts PDF Generator.csproj.GenerateResource.Cache
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts PDF Generator.exe
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts PDF Generator.pdb
+E:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\bin\Debug\MySql.Data.dll
+D:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\bin\Debug\Transcripts PDF Generator.exe.config
+D:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts PDF Generator.exe
+D:\Projects\Transcripts PDF Generator\Transcripts PDF Generator\obj\Debug\Transcripts PDF Generator.pdb
